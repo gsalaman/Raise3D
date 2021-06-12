@@ -8,5 +8,7 @@ From: https://www.raise3d.com/compatible-filaments/
 | atomic filament | https://atomicfilament.com/collections/opaque-pla-filaments-1 | some metallics... |
 | Fillamentum | https://fillamentum.com/collections/pla-extrafill-filament/ | colors and clears...but clears aren't on approved list |
 | Kexcelled | http://kexcelled.nl/product/pla-k5-magic | Raise3D profiles for K5 and K5 (metallic)...but I wonder if metallic is the k5Silk material.  Also looks like they do ***FREE*** samples...and they've got color-change, stone mimicing...all kinds of fun stuff. |
+| polymaker | https://us.polymaker.com/product/polylite-pla/ | Mentioned by matterhackers support as having similar thermal properties as Raise3D (suspect it'll just work).  A little cheaper than Raise3D ($22 a spool), limited color options. |
+
 
 
