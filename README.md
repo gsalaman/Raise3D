@@ -10,6 +10,12 @@ https://support.raise3d.com/Pro2-Series/how-to-calibrate-the-nozzle-height-4-223
 ## Nozzle Offset calibration:
 https://support.raise3d.com/Pro2-Series/how-to-calibrate-the-nozzle-offsets-4-1332.html
 
+EXCEPT EVERYTHING BELOW HAS OPPOSITE SIGN!!!!  FIGURE OUT WHY!
+X "smaller" is if the R extrude is towards the material.
+Y "bigger" is if the R extrude is towards the door.
+
+Older analysis below...
+
 Reading the model here is a little tricky.   Notes to help:
 * Make sure when you print the model that you have X and Y oriented correctly.  Ideamaker puts down an X/Y/Z origin when you are "moving" the model to use as reference.  On the model:
   * the notch on "X" should be facing the door (x positve goes towards the material spools)
