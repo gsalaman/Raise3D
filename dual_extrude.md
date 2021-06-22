@@ -21,7 +21,7 @@ I was having problems with an upside-down filet on my case...I started with the 
   * use left extruder...this is different from when you have PVA in the right extruder!
   * Grid infill type
   * Max overhang angle to 30 degrees
-  * reduce horizontal offset to 0.1mm
+  * reduce horizontal offset to 0.1mm  <- This may be too close.  Fillet looked great, but had trouble getting "ghost inset" support out and I needed to drill out the jack hole supports.  Trying 0.2mm with the ghost lip...
 * temperature tab:
   * check cool down inactive extruder
 * ooze tab:
