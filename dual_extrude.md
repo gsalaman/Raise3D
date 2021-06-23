@@ -27,11 +27,21 @@ I was having problems with an upside-down filet on my case...I started with the 
 * ooze tab:
   *  I just did a wipe wall.  (no wipe tower)
   *  Wipe wall mode  was interlaced
-  *  Vertical wall (rather than waterfall).
+  *  Vertical wall (rather than waterfall)
+  *  See notes below...
 
 Then, after I sliced, I took a close look at the support.   Okay, actually, I was doing this all the way whilst experimenting with settings...which is how I
 got to the above.
 
 I printed with lid *OFF*.   When doing lid on, I had some melt in the fillet section.
+
+## Wipe Wall vs Wipe Tower
+Raise3D recommends doing both.
+
+Wipe Towers help with a purge....means material is primed.  Go nested rather than interlaced when using 2 types of materials.
+
+Wipe Walls are more for catching ooze.  I've been doing interlaced, vertical, but I think I'll go nested next time I do PVA.
+
+
 
 
