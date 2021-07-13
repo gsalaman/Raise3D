@@ -14,6 +14,10 @@ EXCEPT EVERYTHING BELOW HAS OPPOSITE SIGN!!!!  FIGURE OUT WHY!
 X "smaller" is if the R extrude is towards the material.
 Y "bigger" is if the R extrude is towards the door.
 
+My super-quick version:
+* For x, if the top block is too far to the right (towards the spools), increase the offset.   
+* For y, if the top block is too far towards the door, decrease the offset.
+
 Older analysis below...
 
 Reading the model here is a little tricky.   Notes to help:
