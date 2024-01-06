@@ -46,3 +46,14 @@ Alternative (more brain-dead) method:
 * If not, flip 180.  Now do any layers line up on the right side?
 * The top layer of whichever layer lined up best has the offset printed on it!
 * Repeat for y
+
+## More on nozzle selection:
+From here:
+https://www.3djake.com/info/guide/3d-printer-nozzle-guide#:~:text=3D%20printer%20nozzles%20are%20available,is%20extruded%20and%20how%20fast.
+
+* Maximum layer height = 0.75 * nozzle diameter
+* Minimum layer height = 0.25 * nozzle diameter
+
+So....for those .4mm nozzles:
+* max = .3mm
+* min = .1mm
